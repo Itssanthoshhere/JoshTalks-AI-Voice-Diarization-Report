@@ -112,7 +112,7 @@ The project captures acoustic diarization data across diverse real-world environ
 ## 🛠️ Repository Structure
 
 ```
-diarization-report-web/
+Diarization-Report-Web/
 ├── index.html       # Single-page interactive report (HTML5, Tailwind CDN, Vanilla JS)
 ├── logo.png         # Official Josh Talks logo (56x56 PNG)
 ├── favicon.png      # High-resolution favicon
@@ -129,8 +129,8 @@ This dashboard is a lightweight, zero-dependency static web application:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Itssanthoshhere/diarization-report-web.git
-   cd diarization-report-web
+   git clone https://github.com/Itssanthoshhere/Diarization-Report-Web.git
+   cd Diarization-Report-Web
    ```
 
 2. Open in any modern web browser:
