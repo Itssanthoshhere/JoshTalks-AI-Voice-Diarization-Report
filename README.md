@@ -1,13 +1,36 @@
-# 🎙️ Josh Talks AI Voice Diarization Report (125 Hours Project)
+<div align="center">
 
-[![Live Web Report](https://img.shields.io/badge/Live%20Report-Vercel-black?style=for-the-badge&logo=vercel)](https://diarization-report-web.vercel.app)
-[![Project Status](https://img.shields.io/badge/Status-Complete%20Through%20Nov%203-emerald?style=for-the-badge)](https://diarization-report-web.vercel.app)
-[![Total Duration](https://img.shields.io/badge/Total%20Duration-56h%2038m%2029s-a4161a?style=for-the-badge)](https://diarization-report-web.vercel.app)
-[![Total Sessions](https://img.shields.io/badge/Recorded%20Sessions-169-d4af37?style=for-the-badge)](https://diarization-report-web.vercel.app)
+  <img src="logo.png" alt="Josh Talks Logo" width="90" height="90" />
 
-An interactive, responsive audit dashboard and report for the **Josh Talks 125 Hours AI Voice Multi-Speaker Diarization Project**, spanning **4 October 2026 through 3 November 2026**.
+  # 🎙️ Josh Talks AI Voice Diarization Report (125 Hours Project)
 
-🌐 **Production Deployment:** [https://diarization-report-web.vercel.app](https://diarization-report-web.vercel.app)
+  <p align="center">
+    <a href="https://diarization-report-web.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/🟢_LIVE_DEMO-diarization--report--web.vercel.app-a4161a?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Web Report" />
+    </a>
+    <a href="https://diarization-report-web.vercel.app">
+      <img src="https://img.shields.io/badge/Project_Status-Complete_Through_Nov_3-059669?style=for-the-badge" alt="Project Status" />
+    </a>
+    <a href="https://diarization-report-web.vercel.app">
+      <img src="https://img.shields.io/badge/Total_Duration-56h_38m_29s-8b1116?style=for-the-badge" alt="Total Duration" />
+    </a>
+    <a href="https://diarization-report-web.vercel.app">
+      <img src="https://img.shields.io/badge/Total_Sessions-169_Audio_Files-d4af37?style=for-the-badge" alt="Total Sessions" />
+    </a>
+  </p>
+
+  <h3>
+    🌐 <strong>Live Report:</strong> 
+    <a href="https://diarization-report-web.vercel.app" target="_blank">
+      https://diarization-report-web.vercel.app
+    </a>
+  </h3>
+
+  <p align="center">
+    <em>Interactive audit dashboard and reporting repository for the 125 Hours Multi-Speaker Diarization Project (4 October – 3 November 2026). Features multi-column dynamic sorting, quick presets, category filters, and acoustic room telemetry.</em>
+  </p>
+
+</div>
 
 ---
 
